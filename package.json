@@ -1,0 +1,23 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChangmoSung/notes-app-with-node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChangmoSung/notes-app-with-node.js/issues"
+  },
+  "homepage": "https://github.com/ChangmoSung/notes-app-with-node.js#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "validator": "^10.8.0"
+  }
+}
